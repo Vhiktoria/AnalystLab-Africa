@@ -243,7 +243,3 @@ One important lesson was that producing a dashboard is not just about displaying
 The Healthcare Operations & Financial Intelligence Dashboard brings together operational and financial information to provide a clearer view of healthcare activity.
 
 It demonstrates how data analytics can be used to examine encounter patterns, procedure utilisation, claim costs and payer coverage, while identifying areas that require further investigation.
-
-
-**Author:** Victoria Onyemaechi
-
